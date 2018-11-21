@@ -32,6 +32,6 @@ EventEmitter.unsubscribe(token);
 ```
 
 ## Link
-- [](https://github.com/mroderick/PubSubJS)
-- [](https://gist.github.com/juliangruber/3160726)
-- [](https://github.com/primus/eventemitter3)
+- [https://github.com/mroderick/PubSubJS](https://github.com/mroderick/PubSubJS)
+- [https://gist.github.com/juliangruber/3160726](https://gist.github.com/juliangruber/3160726)
+- [https://github.com/primus/eventemitter3](https://github.com/primus/eventemitter3)
