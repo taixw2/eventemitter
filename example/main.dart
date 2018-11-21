@@ -1,4 +1,4 @@
-import 'package:eventemitter/eventemitter.dart';
+import 'package:flutter_eventemitter/flutter_eventemitter.dart';
 
 void main() {
   const MESSAGE = '___message__';

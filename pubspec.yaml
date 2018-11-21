@@ -1,8 +1,8 @@
-name: eventemitter
+name: flutter_eventemitter
 description: Dependency free publish/subscribe(pub/sub) for dart&flutter.
 version: 0.1.0
-author:
-homepage:
+author: iqqq<fex@0000o.net>
+homepage: https://github.com/taixw2/eventemitter.git
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
