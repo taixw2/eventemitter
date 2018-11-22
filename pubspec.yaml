@@ -1,6 +1,6 @@
 name: flutter_eventemitter
 description: Dependency free publish/subscribe(pub/sub) for dart&flutter.
-version: 0.1.0
+version: 0.1.1
 author: iqqq<fex@0000o.net>
 homepage: https://github.com/taixw2/eventemitter.git
 

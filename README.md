@@ -16,8 +16,8 @@ Open the `pubspec.yaml` file, and add `eventemitter:` unde dependencies:
 install it from terminal: `Run flutter packages get`
 
 ## Example
-- [](./example/main.dart)
-- [](./test/eventemitter_test.dart)
+- [example](./example/main.dart)
+- [test](./test/eventemitter_test.dart)
 
 ``` dart
 String token = EventEmitter.subscribe('topic', (data) {
@@ -25,6 +25,7 @@ String token = EventEmitter.subscribe('topic', (data) {
   print(data);
 });
 
+// publish is async function
 EventEmitter.publish('topic', 1)
 EventEmitter.publishSync('topic', 2)
 EventEmitter.unsubscribe(token);
